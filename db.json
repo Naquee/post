@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+       "email":"naki@gmail.com",
+        "password":"abcderdfde",
+        "country":"India",
+        "phone":4569871236,
+        "city":"Bhopal"
+      }
+     
+    ]
+  }
